@@ -1,0 +1,6 @@
+2018-10-01 11:22:35,690 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MavenProject:MavenPro:0.0.1-SNAPSHOT @ D:\hyddemo\MavenPro\pom.xml.
+2018-10-01 11:22:36,033 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenPro/src/main/java
+2018-10-01 11:22:36,033 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MavenPro/src/main/resources
+2018-10-01 11:22:36,033 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenPro/src/test/java
+2018-10-01 11:22:36,033 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MavenPro/src/test/resources
+2018-10-01 11:22:37,427 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MavenProject:MavenPro:0.0.1-SNAPSHOT @ D:\hyddemo\MavenPro\pom.xml.
